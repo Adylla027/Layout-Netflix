@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Netflix</string>
+    <string name="titulomovie">O preço do amanhã</string>
+    <string name="textView">Séries</string>
+    <string name="textView4">Filmes</string>
+    <string name="textView5">Minha lista</string>
+    <string name="tagfilme">Ficção</string>
+    <string name="tagfilme2">Distopia</string>
+    <string name="tagfilme3">Ação</string>
+    <string name="buttonminhaLista">Minha Lista</string>
+    <string name="buttonassistir">Assistir</string>
+    <string name="buttondetalhes">Detalhes</string>
+    <string name="textviewLançamento">Lançamento</string>
+
 </resources>
