@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Netflix</string>
-    <string name="titulomovie">El precio del mañana</string>
-    <string name="textView">Series</string>
-    <string name="textView4">Películas</string>
-    <string name="textView5">Mi lista</string>
-    <string name="tagfilme">Ficción</string>
-    <string name="tagfilme2">Distopía</string>
-    <string name="tagfilme3">Acción</string>
-    <string name="buttonminhaLista">Mi lista</string>
-    <string name="buttonassistir">Ver</string>
-    <string name="buttondetalhes">Detalles</string>
-    <string name="textviewLançamento">Estreno</string>
+    <string name="s_ries">Series</string>
+    <string name="filmes">Películas</string>
+    <string name="minha_lista">Mi lista</string>
+    <string name="fic_o">Ficción</string>
+    <string name="distopia">Distopía</string>
+    <string name="a_o">Acción</string>
+    <string name="minha_lista2">Mi lista</string>
+    <string name="assistir">Ver</string>
+    <string name="detalhes">Detalles</string>
+    <string name="lan_amento">Estreno</string>
 </resources>
